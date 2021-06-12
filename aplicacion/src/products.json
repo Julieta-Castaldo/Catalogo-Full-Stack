@@ -1,0 +1,32 @@
+[
+	{
+		"image": "https://www.cellshop.com/2974507-thickbox_default/boneco-chandler-bing-flocked-friends-funko-pop-1066.jpg",
+		"name": "Producto 1",
+		"price": 100.00
+	},
+	{
+		"image": "https://www.cellshop.com/3811771-thickbox_default/boneco-chandler-bing-friends-the-tv-series-funko-pop-700.jpg",
+		"name": "Producto 2",
+		"price": 200.00
+	},
+	{
+		"image": "https://www.cellshop.com/4008471-thickbox_default/boneco-phoebe-buffary-friends-the-tv-series-funko-pop-705.jpg",
+		"name": "Producto 3",
+		"price": 300.00
+	},
+	{
+		"image": "https://www.cellshop.com/3189844-thickbox_default/boneco-steve-with-sunglasses-stranger-things-funko-pop-638.jpg",
+		"name": "Producto 4",
+		"price": 400.00
+	},
+	{
+		"image": "https://www.cellshop.com/3811326-thickbox_default/boneco-dustin-stranger-things-funko-pop-424.jpg",
+		"name": "Producto 5",
+		"price": 500.00
+	},
+	{
+		"image": "https://www.cellshop.com/3811296-large_default/boneco-mike-stranger-things-movies-funko-pop-423.jpg",
+		"name": "Producto 6",
+		"price": 600.00
+	}
+]
